@@ -50,4 +50,4 @@ function getDBConnection() {
 }
 ?>
 ```
-Access the application in your browser base on BASE_URL.
+Access the application in your browser based on BASE_URL.
